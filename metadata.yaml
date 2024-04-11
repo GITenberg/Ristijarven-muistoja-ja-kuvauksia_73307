@@ -1,0 +1,25 @@
+_repo: Ristijarven-muistoja-ja-kuvauksia_73307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pulkkinen, Salomo
+    gutenberg_agent_id: '57032'
+    url: http://www.gutenberg.org/2009/agents/57032
+description: ''
+gutenberg_issued: '2024-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73307'
+language: fi
+pgterms:marc905: 20230827053811pulkkinen
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bAkateeminen kirjakauppa, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ristijärven muistoja ja kuvauksia
+url: http://www.gutenberg.org/ebooks/73307
