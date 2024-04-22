@@ -1,11 +1,16 @@
 _repo: Ristijarven-muistoja-ja-kuvauksia_73307
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pulkkinen, Salomo
     gutenberg_agent_id: '57032'
     url: http://www.gutenberg.org/2009/agents/57032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73307#Ristijarven-muistoja-ja-kuvauksia
 gutenberg_issued: '2024-03-31'
 gutenberg_type: Text
 identifiers:
